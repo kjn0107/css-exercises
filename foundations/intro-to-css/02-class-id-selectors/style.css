@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.odd {
+    color: rgb(0, 0, 0);
+    background-color: rgb(228, 148, 148);
+    font-size: larger;
+    font-family: Verdana, DejaVU Sans, sans-serif;
+}
+
+#div1 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#div2 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(132, 230, 132);
+    font-size: 24px;
+    font-weight: 700;
+}
